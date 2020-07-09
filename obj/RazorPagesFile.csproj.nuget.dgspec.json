@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile\\RazorPagesFile.csproj": {}
+    "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile\\RazorPagesFile.csproj": {
+    "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile\\RazorPagesFile.csproj",
+        "projectUniqueName": "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile.csproj",
         "projectName": "RazorPagesFile",
-        "projectPath": "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile\\RazorPagesFile.csproj",
+        "projectPath": "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile.csproj",
         "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\RingCentral\\RazorPagesFile\\RazorPagesFile\\obj\\",
+        "outputPath": "C:\\Projects\\RingCentral\\RazorPagesFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -19,6 +19,9 @@
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {}
@@ -32,6 +35,26 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
