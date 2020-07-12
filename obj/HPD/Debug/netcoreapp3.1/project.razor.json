@@ -20521,8 +20521,23 @@
   "RootNamespace": "RazorPagesFile",
   "Documents": [
     {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\MiniFiles\\Create.cshtml",
+      "TargetPath": "Pages\\MiniFiles\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\MiniFiles\\Delete.cshtml",
+      "TargetPath": "Pages\\MiniFiles\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\MiniFiles\\Index.cshtml",
+      "TargetPath": "Pages\\MiniFiles\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20548,6 +20563,16 @@
     {
       "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\MiniFiles\\Details.cshtml",
+      "TargetPath": "Pages\\MiniFiles\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\MiniFiles\\Edit.cshtml",
+      "TargetPath": "Pages\\MiniFiles\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {

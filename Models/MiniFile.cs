@@ -6,6 +6,7 @@ namespace RazorPagesFile.Models
     {
         public int Id {get;set;}
         public string FileName{get;set;}
+        public string Content{get;set;}
         public bool IsCurrentlyEdit{get;set;}
         public DateTime? BeginTime{get;set;}
     }
