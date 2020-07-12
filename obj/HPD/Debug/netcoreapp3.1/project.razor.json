@@ -20586,11 +20586,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\New.cshtml",
       "TargetPath": "Pages\\New.cshtml",
       "FileKind": "mvc"

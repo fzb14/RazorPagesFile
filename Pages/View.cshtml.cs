@@ -2,6 +2,7 @@ using RazorPagesFile.Models;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Linq;
 using Microsoft.EntityFrameworkCore;
 
 namespace RazorPagesFile.Pages
@@ -19,7 +20,7 @@ namespace RazorPagesFile.Pages
 
         public async Task OnGetAsync()
         {
-            MiniFile = await _context.MiniFile.ToListAsync();
+            MiniFile = await _context.MiniFile.OrderBy(m=>m.FileName).ToListAsync();
         }
     }
 }
