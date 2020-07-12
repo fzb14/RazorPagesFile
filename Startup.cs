@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -10,17 +11,20 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using RazorPagesFile.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 
 namespace RazorPagesFile
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration, IWebHostEnvironment env)
         {
+            Environment = env;
             Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
+        public IWebHostEnvironment Environment { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -29,6 +33,11 @@ namespace RazorPagesFile
 
             services.AddDbContext<MiniFileContext>(options =>
                 options.UseSqlite(Configuration.GetConnectionString("MiniFileContext")));
+
+            services.AddMvc().AddRazorPagesOptions(options =>
+                {
+                    options.Conventions.AddPageRoute("/New", "");
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,7 +55,12 @@ namespace RazorPagesFile
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
+            app.UseStaticFiles(new StaticFileOptions()
+                {
+                　　FileProvider = new PhysicalFileProvider(
+                　　Path.Combine(Directory.GetCurrentDirectory(), @"FileStorage")),
+                　　RequestPath = new Microsoft.AspNetCore.Http.PathString("/FileStorage")
+                });
 
             app.UseRouting();
 

@@ -20521,6 +20521,16 @@
   "RootNamespace": "RazorPagesFile",
   "Documents": [
     {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Lock.cshtml",
+      "TargetPath": "Pages\\Lock.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Edit.cshtml",
+      "TargetPath": "Pages\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\MiniFiles\\Create.cshtml",
       "TargetPath": "Pages\\MiniFiles\\Create.cshtml",
       "FileKind": "mvc"
@@ -20528,11 +20538,6 @@
     {
       "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\MiniFiles\\Delete.cshtml",
       "TargetPath": "Pages\\MiniFiles\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20546,8 +20551,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Test.cshtml",
+      "TargetPath": "Pages\\Test.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\View.cshtml",
+      "TargetPath": "Pages\\View.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20578,6 +20588,11 @@
     {
       "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\RingCentral\\RazorPagesFile\\Pages\\New.cshtml",
+      "TargetPath": "Pages\\New.cshtml",
       "FileKind": "mvc"
     }
   ],

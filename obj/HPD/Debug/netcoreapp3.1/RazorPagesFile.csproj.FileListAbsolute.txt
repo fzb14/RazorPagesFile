@@ -146,8 +146,6 @@ C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\RazorPagesFil
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\RazorPagesFile.TagHelpers.output.cache
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\RazorPagesFile.RazorCoreGenerate.cache
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -165,3 +163,8 @@ C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\M
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\MiniFiles\Details.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\MiniFiles\Edit.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\MiniFiles\Index.cshtml.g.cs
+C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\New.cshtml.g.cs
+C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Test.cshtml.g.cs
+C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\View.cshtml.g.cs
+C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
+C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Lock.cshtml.g.cs
