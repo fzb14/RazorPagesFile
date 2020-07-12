@@ -145,7 +145,6 @@ C:\Projects\RingCentral\RazorPagesFile\bin\HPD\Debug\netcoreapp3.1\runtimes\win\
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\RazorPagesFile.TagHelpers.input.cache
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\RazorPagesFile.TagHelpers.output.cache
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\RazorPagesFile.RazorCoreGenerate.cache
-C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -158,11 +157,6 @@ C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\staticwebasse
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\staticwebassets\RazorPagesFile.StaticWebAssets.xml
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\RazorPagesFile.dll
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\RazorPagesFile.pdb
-C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\MiniFiles\Create.cshtml.g.cs
-C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\MiniFiles\Delete.cshtml.g.cs
-C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\MiniFiles\Details.cshtml.g.cs
-C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\MiniFiles\Edit.cshtml.g.cs
-C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\MiniFiles\Index.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\New.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\Test.cshtml.g.cs
 C:\Projects\RingCentral\RazorPagesFile\obj\HPD\Debug\netcoreapp3.1\Razor\Pages\View.cshtml.g.cs
